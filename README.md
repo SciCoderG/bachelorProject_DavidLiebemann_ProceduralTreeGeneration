@@ -11,3 +11,5 @@ by the competition for space between growing branches.
 Additionally, the project includes the graph-theoretical tree
 data structure used by us and the system responsible for constructing the 3D model
 data.
+
+Developed for Unreal Engine 4 Version 4.14
