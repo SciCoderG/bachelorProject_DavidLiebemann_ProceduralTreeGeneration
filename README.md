@@ -1,4 +1,4 @@
-# bachelorProject_DavidLiebemann_ProceduralTreeGeneration
+# Procedural Tree Generation
 Bachelor Project presenting the implementation of two different methods for the procedural generation of tree-like structures for the Unreal Engine 4.
 
 Lindenmayer-Systems and a Space Colonization Algorithm.
